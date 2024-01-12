@@ -1,0 +1,98 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Sora', sans-serif;
+}
+
+#testimonial{
+  margin-top: 100px;
+}
+
+.container{
+  width: 1360px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.review_des{
+  width: 550px;
+}
+
+.medel{
+  width: 50px;
+}
+
+.review_des h1{
+  font-size: 35px;
+  margin-top: 17px;
+}
+
+.review_des p{
+  color: #52525A;
+  line-height: 30px;
+  font-size: 17.5px;
+  margin-top: 17px;
+  margin-bottom: 17px;
+}
+
+
+
+ul li{
+  color: #52525A;
+  line-height: 30px;
+  font-size: 15px;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+ul span img{
+  width: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+
+.review_testimonial{
+  width: 600px;
+}
+
+.reviews{
+  width: 400px;
+  background-color: #fff;
+  padding: 40px 30px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+  border-radius: 15px;
+}
+
+.clints_rate{
+  display: flex;
+}
+
+.reviews .google, .meta{
+  width: 100px;
+  margin-right: 16px;
+}
+
+.reviews h3{
+  font-size: 17px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.reviews p{
+  color: #52525A;
+  line-height: 30px;
+  font-size: 17.5px;
+}
+
+
+.margin_b{
+  margin-bottom: 70px;
+  margin-left: auto;
+}
